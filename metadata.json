@@ -1,0 +1,8 @@
+{
+  "name": "Chimala Music",
+  "description": "App ya wasanii, nyimbo na video za muziki, pamoja na matukio na habari za hivi punde za matamasha Chimala, Mbeya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
